@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jAzTVS34OBliyaSmFMw8jWqLg2JzL9oxXfC6cYMUXts=",
+  "Source": "DapperDockerAPI",
+  "BasePath": "_content/DapperDockerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
